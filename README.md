@@ -1,6 +1,4 @@
-# Graph-to-Text
-
-# **Graph-to-Text Transformation for Utilizing Text-based Transformer Models **
+# Graph-to-Text Transformation for Utilizing Text-based Transformer Models 
 
 ## Colab
 
