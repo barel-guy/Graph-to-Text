@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="./proposed_architecture.pdf" alt="Proposed Architecture" width="800">
+  <img src="./proposed_architecture.pdf" alt="Proposed Architecture" width="800"> 
   <br>
   <b>Figure</b>: An overview of our proposed project’s architectural design follows: we convert the nodes and edges of a graph into a sequential text format. This process is executed using the DFS algorithm which traverses the graph while simultaneously extracting labels from the nodes and edges. Following this transformation, the sequential data is input into a conventional text-based Transformer for further processing
 </p>
